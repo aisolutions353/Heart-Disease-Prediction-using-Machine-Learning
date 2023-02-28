@@ -3,6 +3,7 @@ This project is used to classify the patients of heart disease according to the 
 which is a powerful machine learning model used for classification and a Neural network model. Finally, we compared the accuracy of both models.
 
 # Dataset
+we have used publically available dataset on the following link.
 https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 
 # Model Comparison
